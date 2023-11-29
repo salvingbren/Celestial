@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title> Briena Salva html</title>
+</head>
+
+<body background = "ExoL.jpg">
+
+<h1><font color= red><b><i>Briena Salva Home Page</i></b></h1>
+
+
+<a href="Home.html">HOME</a>|
+<a href="About Me.html">ABOUT ME</a>
+<a href="Personal.html">PERSONAL INFO</a>|
+<a href="Picture.htlml">PICTURE</a>|
+
+
+
+<h2> My First Heading 2</h2>
+<h3> My First Heading 3</h3>
+
+<p> My First Paragraph.</p>
+
+</body>
+</html>
+ 
+
